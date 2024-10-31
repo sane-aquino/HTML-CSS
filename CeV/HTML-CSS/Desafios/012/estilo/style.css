@@ -1,0 +1,11 @@
+@charset "UFT-8";
+
+header{
+    background-image: black;
+}
+
+header > h1{
+    color: white;
+
+
+}
