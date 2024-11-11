@@ -60,6 +60,7 @@ html, body{
             font-size: 3.5vw;            
         }
 
+
     section > p{
         padding-bottom: 2em;
     }
@@ -73,7 +74,7 @@ html, body{
         background-color: rgba(48, 44, 44, 0);
         color: white;
         background-size: cover; 
-        background-attachment: fixed;           
+        background-attachment: fixed;        
         }
 
     section.imagem > p{
